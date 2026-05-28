@@ -42,8 +42,7 @@ Data Science and Machine Learning enthusiast with a strong quantitative and stat
 - Scikit-learn ⭐⭐⭐⭐☆ (4/5)
 - Streamlit ⭐⭐⭐☆☆ (3/5)
 - Power BI ⭐⭐⭐⭐☆ (4/5)
-- Git & GitHub ⭐⭐⭐☆☆ (3/5)
-
+- 
 ### Domain Expertise
 - Financial Analytics ⭐⭐⭐⭐☆ (4/5)
 - Risk Monitoring ⭐⭐⭐⭐☆ (4/5)
