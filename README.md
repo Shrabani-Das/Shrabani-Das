@@ -1,17 +1,22 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,35:090979,70:1E3C72,100:00A8E8&height=220&section=header&text=Shrabani%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20Credit%20Risk%20%26%20Quantitative%20Analytics&descAlignY=58&descSize=18"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:090979,70:1E3C72,100:00A8E8&text=Shrabani%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn"
+/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=0047AB&center=true&vCenter=true&width=750&lines=Data+Scientist+%40+Aditya+Birla+Capital;Credit+Risk+Analytics+%7C+Model+Validation;Building+Explainable+AI-Powered+Risk+Models;M.Sc.+Quantitative+Economics+%40+ISI+Kolkata)](https://www.linkedin.com/in/shrabani-das-1b353a245/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=0047AB&center=true&vCenter=true&width=850&lines=Data+Scientist+%40+Aditya+Birla+Capital;Credit+Risk+Analytics+%7C+Model+Validation;Building+Explainable+AI+for+Financial+Risk;M.Sc.+Quantitative+Economics+%40+ISI+Kolkata)](https://www.linkedin.com/in/shrabani-das-1b353a245/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrabani-Das&label=Profile%20Views&color=0047AB&style=flat-square)
-![Location](https://img.shields.io/badge/Location-Mumbai,%20India-020024?style=flat-square&logo=googlemaps&logoColor=white)
-![Open To](https://img.shields.io/badge/Open%20To-Credit%20Risk%20|%20Model%20Validation%20|%20Quant-0047AB?style=flat-square)
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrabani-das-1b353a245/)
-[![Email](https://img.shields.io/badge/Email-0047AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrabaniofficial58@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-URL)
+![](https://komarev.com/ghpvc/?username=Shrabani-Das&label=Profile%20Views&color=0047AB&style=flat-square)
+![](https://img.shields.io/badge/Location-Mumbai%2C%20India-020024?style=flat-square&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Open%20To-Credit%20Risk%20%7C%20Model%20Validation%20%7C%20Quant-0047AB?style=flat-square)
+
+<br><br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrabani-das-1b353a245)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shrabaniofficial58@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das)
 
 </div>
