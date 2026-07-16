@@ -12,7 +12,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 ![](https://img.shields.io/badge/Location-Mumbai%2C%20India-020024?style=flat-square&logo=googlemaps&logoColor=white)
 ![](https://img.shields.io/badge/Open%20To-Credit%20Risk%20%7C%20Model%20Validation%20%7C%20Quant-0047AB?style=flat-square)
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrabani-das-1b353a245)
 [![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
@@ -107,7 +107,9 @@ An end-to-end retail credit risk platform featuring:
 
 **Tech:** Python • SQL • Scikit-learn • Streamlit
 
-**Repository:** *(Add your GitHub link here)*
+**Repository:** *[(Add your GitHub link here)](https://github.com/Shrabani-Das/Credit_Risk_Scorecard)*
+
+**🌐 Live Demo:** [![Live Demo](https://img.shields.io/badge/🚀-Launch%20Application-020024?style=for-the-badge)](https://creditriskscorecard-shrabanidas-01.streamlit.app/)
 
 ---
 
@@ -124,7 +126,9 @@ Includes semantic search, citations, embeddings and conversational interface.
 
 **Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
 
-**Repository:** *(Add your GitHub link here)*
+**Repository:** *[(Add your GitHub link here)](https://github.com/Shrabani-Das/Enterprise-Risk-RAG)*
+
+**🌐 Live Demo:** [![Live Demo](https://img.shields.io/badge/🚀-Launch%20Application-020024?style=for-the-badge)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
 
 ---
 
