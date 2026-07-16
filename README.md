@@ -107,9 +107,10 @@ An end-to-end retail credit risk platform featuring:
 
 **Tech:** Python • SQL • Scikit-learn • Streamlit
 
-**Repository:** *[(Add your GitHub link here)](https://github.com/Shrabani-Das/Credit_Risk_Scorecard)*
+#### 🔗 Links
 
-**🌐 Live Demo:** [![Live Demo](https://img.shields.io/badge/🚀-Launch%20Application-020024?style=for-the-badge)](https://creditriskscorecard-shrabanidas-01.streamlit.app/)
+[![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Credit_Risk_Scorecard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditriskscorecard-shrabanidas-01.streamlit.app/)
 
 ---
 
@@ -126,9 +127,10 @@ Includes semantic search, citations, embeddings and conversational interface.
 
 **Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
 
-**Repository:** *[(Add your GitHub link here)](https://github.com/Shrabani-Das/Enterprise-Risk-RAG)*
+#### 🔗 Links
 
-**🌐 Live Demo:** [![Live Demo](https://img.shields.io/badge/🚀-Launch%20Application-020024?style=for-the-badge)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
+[![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Enterprise-Risk-RAG)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
 
 ---
 
