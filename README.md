@@ -10,7 +10,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 
 ![](https://komarev.com/ghpvc/?username=Shrabani-Das&label=Profile%20Views&color=0047AB&style=flat-square)
 ![](https://img.shields.io/badge/Location-Mumbai%2C%20India-020024?style=flat-square&logo=googlemaps&logoColor=white)
-![](https://img.shields.io/badge/Open%20To-Credit%20Risk%20%7C%20Model%20Validation%20%7C%20Quant-0047AB?style=flat-square)
+![](https://img.shields.io/badge/Specializing%20In-Credit%20Risk%20%7C%20Model%20Validation%20%7C%20Quant-0047AB?style=flat-square)
 
 <br>
 
