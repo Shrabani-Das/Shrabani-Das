@@ -15,11 +15,11 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrabani-das-1b353a245)
-[![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das)
 
 </div>
-
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK) -->
 ---
 
 ## 👋 About Me
