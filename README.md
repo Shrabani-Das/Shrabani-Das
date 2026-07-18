@@ -22,7 +22,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_LINK) -->
 ---
 
-## 👋 About Me
+## 👤 Author
 
 Data Scientist at **Aditya Birla Capital** specializing in **Credit Risk Analytics, Early Warning Systems, Predictive Modelling, and Explainable AI**.
 
