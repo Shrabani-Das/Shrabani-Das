@@ -4,7 +4,7 @@
 src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024,35:090979,70:1E3C72,100:00A8E8&text=Shrabani%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn"
 />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=0047AB&center=true&vCenter=true&width=850&lines=Data+Scientist+%40+Aditya+Birla+Capital;Credit+Risk+Analytics+%7C+Model+Validation;Building+Explainable+AI+for+Financial+Risk;M.Sc.+Quantitative+Economics+%40+ISI+Kolkata)](https://www.linkedin.com/in/shrabani-das-1b353a245/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=0047AB&center=true&vCenter=true&width=850&lines=Data+Scientist+%40+Aditya+Birla+Capital;Credit+Risk+Analytics+%7C+Model+Validation;Decoding+AI+Decisioning+for+Financial+Risk;M.Sc.+Quantitative+Economics+%40+ISI+Kolkata)](https://www.linkedin.com/in/shrabani-das-1b353a245/)
 
 <br>
 
