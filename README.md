@@ -18,7 +18,6 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das)
 
-</div>
 [![Portfolio](https://img.shields.io/badge/Portfolio-020024?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shrabani-das.vercel.app/)
 
 ## 👤 Author
