@@ -18,7 +18,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 
 </div>
 
-## 👤 Author
+## Author
 
 Data Scientist at **Aditya Birla Capital** specializing in **Credit Risk Analytics, Early Warning Systems, Predictive Modelling, and Explainable AI**.
 
@@ -41,7 +41,7 @@ class ShrabaniDas:
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 - AI-Augmented Credit Risk Scorecard Platform
 - Regulatory RAG Assistant (Basel III, IFRS 9 & RBI Circulars)
@@ -50,7 +50,7 @@ class ShrabaniDas:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -74,7 +74,7 @@ Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III
 
 ---
 
-## ⭐ Core Expertise
+## Core Expertise
 
 - Credit Risk Analytics
 - Early Warning System (EWS) Modelling
@@ -87,9 +87,9 @@ Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🧮 ML-Powered Credit Risk Scorecard
+### ML-Powered Credit Risk Scorecard
 
 An end-to-end retail credit risk platform featuring:
 
@@ -103,14 +103,14 @@ An end-to-end retail credit risk platform featuring:
 
 **Tech:** Python • SQL • Scikit-learn • Streamlit
 
-#### 🔗 Links
+#### Links
 
 [![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Credit_Risk_Scorecard)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditriskscorecard-shrabanidas-01.streamlit.app/)
 
 ---
 
-### 📖 Regulatory RAG Assistant
+### Regulatory RAG Assistant
 
 A Retrieval-Augmented Generation system capable of answering questions from:
 
@@ -123,14 +123,14 @@ Includes semantic search, citations, embeddings and conversational interface.
 
 **Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
 
-#### 🔗 Links
+#### Links
 
 [![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Enterprise-Risk-RAG)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
 
 ---
 
-## 🎓 Education
+## Education
 
 **Indian Statistical Institute (ISI), Kolkata**
 
@@ -142,7 +142,7 @@ Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Eco
 
 ---
 
-## 📊 GitHub
+## GitHub
 
 ![Followers](https://img.shields.io/github/followers/Shrabani-Das?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/github/stars/Shrabani-Das?style=for-the-badge)
@@ -150,7 +150,7 @@ Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Eco
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 If you're interested in discussing **Credit Risk**, **Model Validation**, **Quantitative Analytics**, **Machine Learning**, or collaboration opportunities, I'd be happy to connect.
 
