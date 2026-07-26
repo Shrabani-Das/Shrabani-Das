@@ -54,7 +54,7 @@ class ShrabaniDas:
 
 **Languages**
 
-Python • SQL • R • Excel
+Python • SQL • R 
 
 **Machine Learning**
 
@@ -70,7 +70,7 @@ Power BI • Matplotlib • Plotly
 
 **Domain**
 
-Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III • IFRS 9 • RAG
+Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III • IFRS 9 
 
 ---
 
@@ -81,7 +81,7 @@ Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III
 - WOE–IV Scorecard Development
 - Logistic Regression & Machine Learning
 - Model Validation (AUC, KS, Gini, PSI, CSI)
-- Explainable AI (SHAP)
+- Explainability (SHAP)
 - Regulatory Analytics
 - Data Storytelling & Dashboards
 
@@ -115,9 +115,8 @@ An end-to-end retail credit risk platform featuring:
 A Retrieval-Augmented Generation system capable of answering questions from:
 
 - Basel III
-- IFRS 9
-- RBI Master Circulars
-- SR 11-7
+- IFRS 9 (WIP)
+- RBI Master Circulars (WIP)
 
 Includes semantic search, citations, embeddings and conversational interface.
 
@@ -155,6 +154,7 @@ Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Eco
 If you're interested in discussing **Credit Risk**, **Model Validation**, **Quantitative Analytics**, **Machine Learning**, or collaboration opportunities, I'd be happy to connect.
 
 - LinkedIn: https://www.linkedin.com/in/shrabani-das-1b353a245/
+- Portfolio: https://shrabani-das.vercel.app/
 - Email: shrabaniofficial58@gmail.com
 
 ---
