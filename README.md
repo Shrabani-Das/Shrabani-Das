@@ -44,7 +44,7 @@ class ShrabaniDas:
 ## Currently Building
 
 - Regulatory RAG Assistant — Basel III live, IFRS 9 & RBI Circulars in progress
-- Market Risk Early Warning Systems
+- Market Risk Early Warning Systems in progress
 
 ---
 
