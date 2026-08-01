@@ -14,17 +14,17 @@ src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020024
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrabani-das-1b353a245/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das) [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://shrabani-das.vercel.app/)
+<a href="https://www.linkedin.com/in/shrabani-das-1b353a245/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Shrabani-Das" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://shrabani-das.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 ## Author
 
-Data Scientist at **Aditya Birla Capital** specializing in **Credit Risk Analytics, Early Warning Systems, Predictive Modelling, and Explainable AI**.
+Data Scientist at **Aditya Birla Capital**, working in **Credit Risk Analytics** on Early Warning Systems, predictive risk modelling, and explainable decisioning.
 
-I hold an **M.Sc. in Quantitative Economics** from **Indian Statistical Institute (ISI), Kolkata (First Class with Distinction)**. My interests lie at the intersection of **Credit Risk Modelling, Model Validation, Regulatory Analytics (Basel III, IFRS 9 & RBI), Machine Learning, and GenAI**.
-
-I enjoy building production-oriented analytical solutions that combine strong statistical foundations with practical business impact.
+I hold an **M.Sc. in Quantitative Economics** from the **Indian Statistical Institute (ISI), Kolkata** (First Class with Distinction). My work sits at the intersection of **credit risk modelling, model validation, regulatory analytics (Basel III, IFRS 9 & RBI)**, and applied **machine learning / Quantitative Modelling** — with a focus on building solutions that are not just predictive, but interpretable and audit-ready for a regulated environment.
 
 ```python
 class ShrabaniDas:
@@ -43,10 +43,8 @@ class ShrabaniDas:
 
 ## Currently Building
 
-- AI-Augmented Credit Risk Scorecard Platform
-- Regulatory RAG Assistant (Basel III, IFRS 9 & RBI Circulars)
-- Credit Risk Model Validation Dashboard
-- Quantitative Risk Analytics Portfolio
+- Regulatory RAG Assistant — Basel III live, IFRS 9 & RBI Circulars in progress
+- Market Risk Early Warning Systems
 
 ---
 
@@ -54,7 +52,7 @@ class ShrabaniDas:
 
 **Languages**
 
-Python • SQL • R 
+Python • SQL 
 
 **Machine Learning**
 
@@ -70,7 +68,7 @@ Power BI • Matplotlib • Plotly
 
 **Domain**
 
-Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III • IFRS 9 
+Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III 
 
 ---
 
@@ -89,43 +87,36 @@ Credit Risk • Scorecards • WOE/IV • Model Validation • EWS • Basel III
 
 ## Featured Projects
 
-### ML-Powered Credit Risk Scorecard
+###  ML-Powered Credit Risk Scorecard
 
-An end-to-end retail credit risk platform featuring:
+An end-to-end retail credit risk platform — from raw applicant and bureau data to a deployed, explainable underwriting decision tool. Covers roll-rate/vintage-based target definition, WOE/IV feature selection, a 7-variable logistic regression PD model, and a full model monitoring suite.
 
-- WOE/IV Feature Engineering
-- Logistic Regression Scorecard
-- Risk Bands
-- Decision Strategy
-- Model Monitoring
-- SHAP Explainability
-- Streamlit Deployment
+- **Test AUC 0.703 · Gini 40.7% · KS 29.0%**
+- Model stability confirmed via **PSI 0.0001** and per-variable CSI, well within industry tolerance
+- SHAP-based explainability panel and downloadable decision reports per applicant
 
-**Tech:** Python • SQL • Scikit-learn • Streamlit
+**Tech:** Python • Scikit-learn • Statsmodels • SHAP • Streamlit
 
 #### Links
 
-[![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Credit_Risk_Scorecard)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://creditriskscorecard-shrabanidas-01.streamlit.app/)
+<a href="https://github.com/Shrabani-Das/Credit_Risk_Scorecard" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://creditriskscorecard-shrabanidas-01.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 
 ---
 
-### Regulatory RAG Assistant
+###  Enterprise Basel III RAG — Regulatory Knowledge Assistant
 
-A Retrieval-Augmented Generation system capable of answering questions from:
+A citation-grounded Retrieval-Augmented Generation system for banking regulation, built to answer questions strictly from source text rather than an LLM's general knowledge — with page-level citations so every answer is verifiable.
 
-- Basel III
-- IFRS 9 (WIP)
-- RBI Master Circulars (WIP)
+- **Live:** Basel III (BCBS 189) — semantic chunking, FAISS vector search, and a strict anti-hallucination prompt design
+- **In progress:** expanding the corpus to IFRS 9 and RBI Master Circulars for multi-regulation Q&A
 
-Includes semantic search, citations, embeddings and conversational interface.
-
-**Tech:** Python • LangChain • FAISS • Hugging Face • Streamlit
+**Tech:** Python • LangChain • FAISS • Sentence-Transformers • Groq (Llama 3.3 70B) • Streamlit
 
 #### Links
 
-[![Repository](https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrabani-Das/Enterprise-Risk-RAG)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white)](https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/)
+<a href="https://github.com/Shrabani-Das/Enterprise-Risk-RAG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Repository-020024?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://enterprise-risk-rag-kss7m8mpjken3stwbxzmeq.streamlit.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Live%20Demo-020024?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
 
 ---
 
@@ -133,11 +124,9 @@ Includes semantic search, citations, embeddings and conversational interface.
 
 **Indian Statistical Institute (ISI), Kolkata**
 
-**M.Sc. Quantitative Economics**
+**M.Sc. Quantitative Economics** — First Class with Distinction
 
-First Class with Distinction
-
-Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Economics and Monetary Policy Transmission.
+Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Economics, and Monetary Policy Transmission.
 
 ---
 
@@ -151,10 +140,10 @@ Research work included Dynamic Panel GMM, Fixed Effects Models, PCA, Climate Eco
 
 ## Let's Connect
 
-If you're interested in discussing **Credit Risk**, **Model Validation**, **Quantitative Analytics**, **Machine Learning**, or collaboration opportunities, I'd be happy to connect.
+If you're interested in discussing **Credit Risk**, **Model Validation**, **Quantitative Analytics**, **Machine Learning**, or a collaboration, I'd be happy to connect.
 
-- LinkedIn: https://www.linkedin.com/in/shrabani-das-1b353a245/
-- Portfolio: https://shrabani-das.vercel.app/
+- LinkedIn: <a href="https://www.linkedin.com/in/shrabani-das-1b353a245/" target="_blank" rel="noopener noreferrer">linkedin.com/in/shrabani-das-1b353a245</a>
+- Portfolio: <a href="https://shrabani-das.vercel.app/" target="_blank" rel="noopener noreferrer">shrabani-das.vercel.app</a>
 - Email: shrabaniofficial58@gmail.com
 
 ---
@@ -166,4 +155,3 @@ If you're interested in discussing **Credit Risk**, **Model Validation**, **Quan
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,35:1E3C72,70:090979,100:020024&height=120&section=footer"/>
-
